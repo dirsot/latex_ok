@@ -1,4 +1,5 @@
 \chapter{Pierwszy dokument}
+20-30%
 \label{cha:pierwszyDokument}
 
 W rozdziale tym przedstawiono podstawowe informacje dotyczące struktury prostych plików \LaTeX a. Omówiono również metody kompilacji plików z zastosowaniem programów \emph{latex} oraz \emph{pdflatex}.
@@ -72,13 +73,13 @@ Jednym z bardziej znanych środowisk do składania dokumentów  \LaTeX a jest {\
 
 Na stronie \underline{\texttt{http://kile.sourceforge.net/screenshots.php}} zamieszczono kilkanaście zrzutów ekranu środowiska {\em Kile}, które warto przejrzeć, by wstępnie zapoznać się z~możliwościami programu.
 
-Bardzo dobrym środowiskiem jest również edytor gEdit z wtyczką obsługującą \LaTeX a. Jest to standardowy edytor środowiska Gnome. Po instalacji wtyczki obsługującej \LaTeX a, edytor nie ustępuje funkcjonalnościom środowisku Kile, a jest zdecydowanie szybszy w działaniu. Lista dostępnych wtyczek dla tego edytora znajduje się pod adresem \underline{\texttt{http://live.gnome.org/Gedit/Plugins}}. Inne polecane wtyczki to: 
+Bardzo dobrym środowiskiem jest również edytor gEdit z wtyczką obsługującą \LaTeX a. Jest to standardowy edytor środowiska Gnome. Po instalacji wtyczki obsługującej \LaTeX a, edytor nie ustępuje funkcjonalnościom środowisku Kile, a jest zdecydowanie szybszy w działaniu. Lista dostępnych wtyczek dla tego edytora znajduje się pod adresem \underline{\texttt{http://live.gnome.org/Gedit/Plugins}}. Inne polecane wtyczki to:
 \begin{itemize}
 \item Edit shortcuts -- definiowanie własnych klawiszy skrótu;
 \item Line Tools -- dodatkowe operacje na liniach tekstu;
 \item Multi-edit -- możliwość jednoczesnej edycji w wielu miejscach tekstu;
 \item Zoom -- zmiana wielkości czcionki edytora z użyciem rolki myszy;
-\item Split View -- możliwość podziału okna edytora na 2 części. 
+\item Split View -- możliwość podziału okna edytora na 2 części.
 \end{itemize}
 
 
@@ -105,6 +106,6 @@ nie znaki przejścia do nowej linii.
 \item
 \LaTeX~sam formatuje tekst. \textbf{Nie starajmy się go poprawiać}, chyba, że
 naprawdę wiemy co robimy.
-\end{itemize} 
+\end{itemize}
 
 

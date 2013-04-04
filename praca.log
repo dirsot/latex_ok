@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.3.27)  4 APR 2013 22:17
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.3.27)  4 APR 2013 23:22
 entering extended mode
 **C:/Users/stive/Desktop/latex/praca.tex
 (C:/Users/stive/Desktop/latex/praca.tex
@@ -599,32 +599,42 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
 ]
 (C:\Users\stive\Desktop\latex\01_wstep.tex
 Rozdzia\l  1.
+
+LaTeX Warning: Reference `cha:pierwszyDokument' on page 6 undefined on input li
+ne 7.
+
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 9.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\t1pcr.fd"
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 4--12
+
+ []
+
 ) [6
 
 
 
 ] (C:\Users\stive\Desktop\latex\02_state_of_art.tex
 Rozdzia\l  2.
-LaTeX Font Info:    Try loading font information for T1+pcr on input line 37.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\t1pcr.fd"
-File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
-) [7
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 11.
+[7
 
 
 
-]
+])
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 82.
+(Font)              <7> on input line 74.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 82.
- [8])
-[9] (C:\Users\stive\Desktop\latex\03_def_problemu.tex
+(Font)              <5> on input line 74.
+ [8] (C:\Users\stive\Desktop\latex\03_def_problemu.tex
 Rozdzia\l  3.
-) [10
+[9
 
 
 
-] (C:\Users\stive\Desktop\latex\04_opis_roz.tex
+]) [10] (C:\Users\stive\Desktop\latex\04_opis_roz.tex
 Rozdzia\l  4.
 ) [11
 
@@ -652,26 +662,29 @@ Rozdzia\l  6.
 (C:\Users\stive\Desktop\latex\03_def_problemu.aux)
 (C:\Users\stive\Desktop\latex\04_opis_roz.aux)
 (C:\Users\stive\Desktop\latex\05_przyklad_uzycia.aux)
-(C:\Users\stive\Desktop\latex\06_podsumowanie.aux)) ) 
+(C:\Users\stive\Desktop\latex\06_podsumowanie.aux))
+
+LaTeX Warning: There were undefined references.
+
+ ) 
 Here is how much of TeX's memory you used:
- 5252 strings out of 493921
- 69491 string characters out of 3144876
- 160198 words of memory out of 3000000
- 8390 multiletter control sequences out of 15000+200000
- 96777 words of font info for 82 fonts, out of 3000000 for 9000
+ 5270 strings out of 493921
+ 69796 string characters out of 3144876
+ 159198 words of memory out of 3000000
+ 8408 multiletter control sequences out of 15000+200000
+ 98473 words of font info for 83 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 38i,13n,45p,655b,1004s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files (x86)/Mi
-KTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files (x86)/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
-/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/t
-ype1/urw/courier/ucrr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/
-helvetic/uhvb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic
-/uhvr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb
-><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Progra
-m Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files (x8
-6)/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on praca.pdf (14 pages, 200750 bytes).
+ 34i,13n,45p,318b,1588s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progra
+m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program 
+Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Fi
+les (x86)/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files (x86)
+/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files (x86)/MiKTeX 
+2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/font
+s/type1/urw/times/utmb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw
+/times/utmr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmr
+8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on praca.pdf (14 pages, 194957 bytes).
 PDF statistics:
  86 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

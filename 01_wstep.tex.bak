@@ -1,4 +1,5 @@
 \chapter{Wprowadzenie}
+2-3 storny
 \label{cha:wprowadzenie}
 
 \LaTeX~jest systemem składu umożliwiającym tworzenie dowolnego typu dokumentów (w~szczególności naukowych i technicznych) o wysokiej jakości typograficznej (\cite{Dil00}, \cite{Lam92}). Wysoka jakość składu jest niezależna od rozmiaru dokumentu -- zaczynając od krótkich listów do bardzo grubych książek. \LaTeX~automatyzuje wiele prac związanych ze składaniem dokumentów np.: referencje, cytowania, generowanie spisów (treśli, rysunków, symboli itp.) itd.
@@ -18,7 +19,7 @@ Celem poniższej pracy jest zapoznanie studentów z systemem \LaTeX~w zakresie u
 \section{Zawartość pracy}
 \label{sec:zawartoscPracy}
 
-W rodziale~\ref{cha:pierwszyDokument} przedstawiono podstawowe informacje dotyczące struktury dokumentów w \LaTeX u. Alvis~\cite{Alvis2011} jest językiem 
+W rodziale~\ref{cha:pierwszyDokument} przedstawiono podstawowe informacje dotyczące struktury dokumentów w \LaTeX u. Alvis~\cite{Alvis2011} jest językiem
 
 
 
