@@ -8,15 +8,17 @@
 \contentsline {subsection}{\numberline {2.1.2}Windows Maps}{7}
 \contentsline {subsection}{\numberline {2.1.3}Apple Maps}{7}
 \contentsline {section}{\numberline {2.2}Google Earth}{7}
-\contentsline {section}{\numberline {2.3}Time line}{7}
-\contentsline {section}{\numberline {2.4}Kompilacja}{8}
-\contentsline {section}{\numberline {2.5}Narz\IeC {\k e}dzia}{8}
-\contentsline {section}{\numberline {2.6}Przygotowanie dokumentu}{8}
-\contentsline {chapter}{\numberline {3}Definicja problemu}{9}
-\contentsline {section}{\numberline {3.1}Co potrzeba}{9}
-\contentsline {section}{\numberline {3.2}Problemy}{9}
-\contentsline {chapter}{\numberline {4}Opis rozwi\IeC {\k a}zania}{11}
-\contentsline {section}{\numberline {4.1}Interferjs}{11}
-\contentsline {section}{\numberline {4.2}P}{11}
-\contentsline {chapter}{\numberline {5}Podsumowanie}{12}
-\contentsline {chapter}{\numberline {6}Podsumowanie}{13}
+\contentsline {section}{\numberline {2.3}Time line}{9}
+\contentsline {section}{\numberline {2.4}Kompilacja}{9}
+\contentsline {section}{\numberline {2.5}Narz\IeC {\k e}dzia}{9}
+\contentsline {section}{\numberline {2.6}Przygotowanie dokumentu}{10}
+\contentsline {chapter}{\numberline {3}Definicja problemu}{11}
+\contentsline {section}{\numberline {3.1}Co potrzeba}{11}
+\contentsline {section}{\numberline {3.2}Problemy}{11}
+\contentsline {chapter}{\numberline {4}Opis rozwi\IeC {\k a}zania}{13}
+\contentsline {section}{\numberline {4.1}Transmisja danych}{13}
+\contentsline {subsection}{\numberline {4.1.1}XML}{13}
+\contentsline {subsection}{\numberline {4.1.2}JSON}{13}
+\contentsline {section}{\numberline {4.2}Interferjs}{13}
+\contentsline {chapter}{\numberline {5}Podsumowanie}{14}
+\contentsline {chapter}{\numberline {6}Podsumowanie}{15}
